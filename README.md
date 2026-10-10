@@ -10,7 +10,7 @@ Parts of the code were developed with the assistance of Claude (Anthropic), as d
 (https://sites.google.com/site/assistmentsdata/datasets/2012-13-school-data-with-affect) and cite Feng et al. (2009).
 
 **Numbers.** The results of the paper come from `python run_experiments.py ... --seeds 10 --epochs 30` with the graph
-produced by `infer_graph.py` with its default parameters. `results_final.csv`, the inferred graph and its
+produced by `infer_graph.py` with its default parameters. `results.csv`, the inferred graph and its
 `_params.json` are provided with the paper's artefacts. Small differences are possible across hardware and library versions.
 
 ## Install and test
